@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Mastermind.611601319.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Mastermind" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Mastermind.csproj" t="IncludeRecursive" />
+        <e p="Mastermind.Infrastructure" t="Include">
+          <e p="Engines" t="Include">
+            <e p="RuleEngine.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mastermind.UI" t="Include">
+          <e p="Startup.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Mastermind.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
